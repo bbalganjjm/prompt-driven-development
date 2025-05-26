@@ -1,4 +1,4 @@
-# 프롬프트 기반 개발방법론(Prompt-driven Development)
+# 프롬프트 기반 개발방법론(Prompt-driven Development, PDD) 문서
 
 **문서 번호**: MTD-001  
 **버전**: 1.0.0  
