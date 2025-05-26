@@ -8,14 +8,14 @@
 
 ## 목차
 
-1. [개요 및 목표 정의](00.prompt-driven-development-methodology-overview.md)
-2. [핵심 개념](00.prompt-driven-development-methodology-core-concepts.md)
-3. [절차 설계](00.prompt-driven-development-methodology-process.md)
-4. [세부 내용](00.prompt-driven-development-methodology-details.md)
-5. [문서 구조화](00.prompt-driven-development-methodology-documentation.md)
-6. [검토 및 피드백](00.prompt-driven-development-methodology-review.md)
-7. [최종본 확정](00.prompt-driven-development-methodology-finalization.md)
-8. [추가 고려사항](00.prompt-driven-development-methodology-considerations.md)
+1. [개요 및 목표 정의](1.prompt-driven-development-methodology-overview.md)
+2. [핵심 개념](2.prompt-driven-development-methodology-core-concepts.md)
+3. [절차 설계](3.prompt-driven-development-methodology-process.md)
+4. [세부 내용](4.prompt-driven-development-methodology-details.md)
+5. [문서 구조화](5.prompt-driven-development-methodology-documentation.md)
+6. [검토 및 피드백](6.prompt-driven-development-methodology-review.md)
+7. [최종본 확정](7.prompt-driven-development-methodology-finalization.md)
+8. [추가 고려사항](8.prompt-driven-development-methodology-considerations.md)
 
 ## 개요
 
