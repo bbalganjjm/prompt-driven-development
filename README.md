@@ -1,40 +1,40 @@
-# 프롬프트 기반 개발방법론(Prompt-driven Development, PDD) 문서
+# Prompt-driven Development (PDD) Documentation
 
-**문서 번호**: MTD-001  
-**버전**: 1.0.0  
-**작성일**: 2025-05-26  
-**작성자**: 방법론 팀  
-**상태**: 승인됨
+**Document Number**: MTD-001  
+**Version**: 1.0.0  
+**Date**: 2025-05-26  
+**Author**: Methodology Team  
+**Status**: Approved
 
-## 목차
+## Table of Contents
 
-1. [개요 및 목표 정의](1.prompt-driven-development-methodology-overview.md)
-2. [핵심 개념](2.prompt-driven-development-methodology-core-concepts.md)
-3. [절차 설계](3.prompt-driven-development-methodology-process.md)
-4. [세부 내용](4.prompt-driven-development-methodology-details.md)
-5. [문서 구조화](5.prompt-driven-development-methodology-documentation.md)
-6. [검토 및 피드백](6.prompt-driven-development-methodology-review.md)
-7. [최종본 확정](7.prompt-driven-development-methodology-finalization.md)
-8. [추가 고려사항](8.prompt-driven-development-methodology-considerations.md)
+1. [Overview and Objectives](1.prompt-driven-development-methodology-overview.md)
+2. [Core Concepts](2.prompt-driven-development-methodology-core-concepts.md)
+3. [Process Design](3.prompt-driven-development-methodology-process.md)
+4. [Detailed Contents](4.prompt-driven-development-methodology-details.md)
+5. [Documentation Structure](5.prompt-driven-development-methodology-documentation.md)
+6. [Review and Feedback](6.prompt-driven-development-methodology-review.md)
+7. [Finalization](7.prompt-driven-development-methodology-finalization.md)
+8. [Additional Considerations](8.prompt-driven-development-methodology-considerations.md)
 
-## 개요
+## Overview
 
-이 문서는 프롬프트 기반 개발방법론(Prompt-driven Development, PDD)에 대한 포괄적인 이해와 적용 방법을 제공합니다. 현대 소프트웨어 개발에서 인공지능(AI)과 대형 언어 모델(LLM)의 활용이 증가함에 따라, 프롬프트 기반 개발방법론은 효율적이고 효과적인 소프트웨어 개발을 위한 새로운 패러다임으로 등장했습니다.
+This document provides a comprehensive understanding and application guide for the Prompt-driven Development (PDD) methodology. As the use of Artificial Intelligence (AI) and Large Language Models (LLMs) increases in modern software development, PDD has emerged as a new paradigm for efficient and effective software creation.
 
-PDD는 자연어 프롬프트를 통해 AI와 효과적으로 상호작용하여 요구사항 분석, 설계, 코딩, 테스트, 문서화 등 소프트웨어 개발의 각 단계를 가속화하고 품질을 향상시키는 접근 방식입니다. 주요 특성으로는 자연어 기반 상호작용, 반복적 개선 프로세스, 기존 도구 및 워크플로우와의 통합, 그리고 AI와 개발자 간의 협업적 접근을 포함합니다.
+PDD accelerates and enhances each stage of software development—including requirements analysis, design, coding, testing, and documentation—by enabling effective interaction with AI through natural language prompts. Key features include natural language-based interaction, iterative improvement processes, integration with existing tools and workflows, and a collaborative approach between AI and developers.
 
-이 방법론은 다음과 같은 비즈니스 목표와 직접적으로 연계됩니다:
-- 시장 출시 시간(Time-to-Market) 단축
-- 비용 효율성 향상
-- 제품 품질 향상
-- 혁신 가속화
+This methodology is directly linked to the following business goals:
+- Reduced time-to-market
+- Improved cost efficiency
+- Enhanced product quality
+- Accelerated innovation
 
-각 섹션은 PDD의 특정 측면을 다루며, 실제 적용 사례와 최신 트렌드를 포함합니다. 이 방법론은 전통적인 소프트웨어 개발 생명주기(SDLC)와 통합되어 개발 프로세스의 효율성과 품질을 향상시키는데 중점을 둡니다.
+Each section addresses a specific aspect of PDD, including real-world use cases and the latest trends. The methodology is designed to integrate with the traditional Software Development Life Cycle (SDLC), focusing on improving both the efficiency and quality of the development process.
 
-## 사용 방법
+## How to Use
 
-이 문서는 각 주제별로 개별 파일로 구성되어 있으며, 목차의 링크를 통해 필요한 섹션으로 직접 이동할 수 있습니다. 모든 내용은 상호 참조되어 있어 관련 개념과 프로세스를 쉽게 연결하여 이해할 수 있습니다.
+This documentation is organized into separate files for each topic, allowing you to navigate directly to the required section via the links in the table of contents. All content is cross-referenced, making it easy to connect related concepts and processes for better understanding.
 
-## 참고 자료
+## References
 
-이 문서는 Google, Microsoft, Meta, Amazon, Oracle 등 공신력 있는 기관의 최신 연구 및 사례와 함께 다양한 소프트웨어 개발 커뮤니티의 모범 사례를 기반으로 작성되었습니다.
+This document is based on the latest research and case studies from reputable organizations such as Google, Microsoft, Meta, Amazon, and Oracle, as well as best practices from various software development communities.
