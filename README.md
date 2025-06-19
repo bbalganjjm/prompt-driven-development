@@ -1,11 +1,5 @@
 # Prompt-driven Development (PDD) Documentation
 
-**Document Number**: MTD-001  
-**Version**: 1.0.0  
-**Date**: 2025-05-26  
-**Author**: Methodology Team  
-**Status**: Approved
-
 ## Table of Contents
 
 1. [Overview and Objectives](1.prompt-driven-development-methodology-overview.md)
